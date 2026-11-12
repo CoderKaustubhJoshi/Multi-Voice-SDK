@@ -1,0 +1,18 @@
+# Environment variables
+.env
+.env.*
+
+# Dependencies
+node_modules/
+
+# Testing
+test/
+
+# Example files
+example.js
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
